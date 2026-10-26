@@ -127,14 +127,14 @@ Para usuarios avanzados y profesionales que requieren máxima potencia:
 
 | Version | Package | Official SHA-256 Checksum |
 | :--- | :--- | :--- |
-| **v1.0.0** | `app-release.apk` | `8d6d1c0ca1668002e1ebc8532e5cfcd9ddd5c549cb538c02f2736f813c76cfd2` |
+| **v1.0.0** | `NineScan-v1.0.0.apk` | `8d6d1c0ca1668002e1ebc8532e5cfcd9ddd5c549cb538c02f2736f813c76cfd2` |
 
 ```powershell
 # Windows (PowerShell):
-Get-FileHash -Path "app-release.apk" -Algorithm SHA256
+Get-FileHash -Path "NineScan-v1.0.0.apk" -Algorithm SHA256
 
 # Linux / macOS:
-sha256sum app-release.apk
+sha256sum NineScan-v1.0.0.apk
 ```
 
 ---
